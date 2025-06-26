@@ -1,4 +1,12 @@
 # 🌬️ IoT Air Quality Monitoring System
+## 📋 Intern Details
+
+- **👨‍💼 Name:** Shaik Javed Ahmed  
+- **🎓 Intern ID:** CT04DF594  
+- **🏢 Company:** CodTech IT Solutions  
+- **🌐 Domain:** Internet of Things  
+- **📅 Internship Duration:** 4 Weeks  
+- **🧑‍🏫 Mentor:** Neela Santhosh  
 
 This project monitors air quality using an MQ135 sensor and uploads real-time data to a ThingSpeak cloud dashboard.
 
@@ -7,6 +15,7 @@ This project monitors air quality using an MQ135 sensor and uploads real-time da
 - MQ135 Gas Sensor
 - Jumper Wires
 - Wi-Fi Connection
+##  Circuit Diagram
 
 ## ⚙️ Circuit Connections
 
