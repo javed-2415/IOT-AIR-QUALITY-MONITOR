@@ -16,6 +16,7 @@ This project monitors air quality using an MQ135 sensor and uploads real-time da
 - Jumper Wires
 - Wi-Fi Connection
 ##  Circuit Diagram
+![Image](https://github.com/user-attachments/assets/6f9a33d2-f078-4015-ae16-00fe4af6c603)
 
 ## ⚙️ Circuit Connections
 
